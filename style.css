@@ -1,0 +1,55 @@
+
+
+
+body{
+    
+    font-family: 'Noto Sans', sans-serif;
+}
+h1.name{
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 6rem;
+    padding-bottom: 10px;
+}
+.japan{
+    font-family: 'Noto Serif JP', serif;
+}
+
+.jawi{
+    font-family: 'Noto Sans Arabic', sans-serif;
+}
+
+.image-top-left{
+    object-fit: fill;
+    
+}
+.pro{
+    text-decoration: underline;
+}
+
+.title-text{
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+}
+
+.card-cover{
+    object-fit: contain;
+}
+
+.top-container{
+    position: relative;
+    display: block;
+    background-color: #C5FFF8;
+    margin: 0;
+    padding: 100px;
+    bottom: 30px;
+}
+
+hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+  }
+
+ 
